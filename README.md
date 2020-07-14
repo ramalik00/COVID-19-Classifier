@@ -11,4 +11,5 @@ COVID-19 Classifier
    2. Tesorflow : 2.2.0
    3. Numpy
    4. Matplotlib
+   5. Imutils
    
